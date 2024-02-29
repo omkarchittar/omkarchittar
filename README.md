@@ -8,7 +8,7 @@
 <br>
   I'm Omkar Chittar <br>
  
-<img width="15%" alt="TB3" src="https://github.com/omkarchittar/omkarchittar/blob/main/profile-assets/funny_robot.gif">
+<img width="33%" alt="TB3" src="https://github.com/omkarchittar/omkarchittar/blob/main/profile-assets/funny_robot.gif">
   
 </h1>
 <h3 align="center"> Robotics Grad Student at the University of Maryland </h3>
