@@ -23,7 +23,7 @@
 - 📫 Email: ochittar@umd.edu
 ```
 
-📄 Resume: [Click Here](https://drive.google.com/file/d/1wUVpmLTa1zz_4f1Lin4QLauCK6vOBKl-/view?usp=sharing)
+📄 Resume: [Click Here](https://drive.google.com/file/d/1mixKlirYlbKtxslo4rMFfGasgJwBPE7l/view?usp=sharing)
 --
 
 <h3 align="left">Connect with me:</h3>
