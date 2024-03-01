@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarchittar&label=Profile%20views&color=0e75b6&style=flat" alt="omkarchittar" /> </p>
 
 ```ruby
-- 👌 I’m highly proficient in: C++, Python, ROS, OOPs, Computer Vision, Deep Learning and Machine Learning
+- 👌 I’m highly proficient in: C++, Python, ROS, Computer Vision, Deep Learning and Machine Learning
 
 - 🔍 I’m interested in: Image Processing, Computer Vision, Deep Learning, Perception for Autonomous Robots, Machine Learning, Robotic Software Development
                         
