@@ -11,16 +11,16 @@
 <img width="33%" alt="TB3" src="https://github.com/omkarchittar/omkarchittar/blob/main/profile-assets/funny_robot.gif">
   
 </h1>
-<h3 align="center"> Robotics Grad Student at the University of Maryland </h3>
+<h3 align="center"> Data Scientist at FOX Sports </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarchittar&label=Profile%20views&color=0e75b6&style=flat" alt="omkarchittar" /> </p>
 
 ```ruby
 - 👌 I’m highly proficient in: C++, Python, ROS, Computer Vision, Deep Learning and Machine Learning
 
-- 🔍 I’m interested in: Image Processing, Computer Vision, Deep Learning, Perception for Autonomous Robots, Machine Learning, Robotic Software Development
+- 🔍 I’m interested in: Computer Vision, Deep Learning, Data Science, Data Analytics and Visualization
                         
-- 📫 Email: ochittar@umd.edu
+- 📫 Email: omkar.chittar@gmail.com
 ```
 
 📄 Resume: [Click Here](https://drive.google.com/file/d/1mixKlirYlbKtxslo4rMFfGasgJwBPE7l/view?usp=sharing)
