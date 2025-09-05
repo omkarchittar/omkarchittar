@@ -23,7 +23,7 @@
 - 📫 Email: omkar.chittar@gmail.com
 ```
 
-📄 Resume: [Click Here](https://drive.google.com/file/d/1mixKlirYlbKtxslo4rMFfGasgJwBPE7l/view?usp=sharing)
+📄 Resume: [Click Here]([https://drive.google.com/file/d/1mixKlirYlbKtxslo4rMFfGasgJwBPE7l/view?usp=sharing](https://drive.google.com/file/d/1EZaRpGL-COObEJEDUNnYLJ-sp5l3DCcg/view?usp=sharing))
 --
 
 <h3 align="left">Connect with me:</h3>
