@@ -1,45 +1,42 @@
+### Hi, I'm Omkar Chittar
 
+**Software Engineer, AI Strategy & Solutions** at Insight Global, building AI systems for Universal Creative and Universal Destinations & Experiences.
 
-<h1  align="center">
-<a  href="https://git.io/typing-svg">
-<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+There+!+👋;Welcome+to+my+profile">
+I design and ship production GenAI solutions — RAG pipelines, LLM agents, evaluation harnesses — and have a deep background in computer vision, 3D perception, and robotics.
 
-</a>
-<br>
-  I'm Omkar Chittar <br>
- 
-<img width="33%" alt="TB3" src="https://github.com/omkarchittar/omkarchittar/blob/main/profile-assets/funny_robot.gif">
-  
-</h1>
-<h3 align="center"> Data Scientist at FOX Sports </h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarchittar&label=Profile%20views&color=0e75b6&style=flat" alt="omkarchittar" /> </p>
+#### What I'm working on
 
-```ruby
-- 👌 I’m highly proficient in: C++, Python, ROS, Computer Vision, Deep Learning and Machine Learning
+- Building end-to-end **RAG + agent workflows** with guardrails and source attribution
+- Implementing **LLM evaluation & regression harnesses** to prevent quality drift
+- Automating enterprise workflows with **LLM-based extraction and classification**
 
-- 🔍 I’m interested in: Computer Vision, Deep Learning, Data Science, Data Analytics and Visualization
-                        
-- 📫 Email: omkar.chittar@gmail.com
-```
+#### Previously
 
-📄 Resume: [Click Here](https://drive.google.com/file/d/1EZaRpGL-COObEJEDUNnYLJ-sp5l3DCcg/view?usp=sharing)
---
+- **Data Scientist** at Insight Global / FOX Sports — built Slack AI agents, RAG assistants, and automated metadata pipelines at scale
+- **Software Engineer** at Sakar Robotics — stereo depth, point-cloud registration, TSDF tracking, RL for manipulation
+- **M.Eng. Robotics** from University of Maryland, College Park (3.97 GPA)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ochittar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkarchittar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarchittar" height="30" width="40" /></a>
-<a href="https://instagram.com/ommkaaaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ommkaaaar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+#### Tech
 
+**AI/LLMs:** RAG, Agents, Function Calling, Prompt Engineering, Guardrails, LangChain, LangGraph, Ragas
 
-| . | . | . |
-|-----|------|------|
-|![](https://github-readme-stats.vercel.app/api?username=omkarchittar&show_icons=true&locale=en)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarchittar&theme=dracula)|![](https://github-readme-streak-stats.herokuapp.com/?user=omkarchittar&)|
+**3D Vision:** Stereo Depth, ICP, SLAM, COLMAP, TSDF, NeRFs, OpenCV, Open3D, PyTorch3D
 
+**ML/Data:** Deep Learning, NLP, Reinforcement Learning, Spark, Airflow, Kafka
 
+**Cloud:** AWS (Bedrock, Lambda, SageMaker), GCP (BigQuery, Vertex AI), Azure, Databricks, Snowflake
 
+**Languages:** Python, SQL, C++, R
+
+---
+
+#### Links
+
+- **Website:** [omkarchittar.com](https://omkarchittar.com)
+- **LinkedIn:** [linkedin.com/in/omkarchittar](https://linkedin.com/in/omkarchittar)
+- **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=i1tpz8gAAAAJ)
+- **Email:** omkar.chittar@gmail.com
